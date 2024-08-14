@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alli Ragsdale! 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-  - [Active Directory Home Lab](https://www.github.com/22acolbert/ActiveDirectoryLab/blob/main/README.md)
+- [Active Directory Home Lab](https://www.github.com/22acolbert/ActiveDirectoryLab/blob/main/README.md)
 
 <h2>📺 Certifications</h2>
 
