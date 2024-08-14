@@ -3,7 +3,7 @@
 
   - [Active Directory Home Lab](https://github.com/22acolbert/ActiveDirectoryLab)
 
-<h2>📺 Certifications</h2>
+<h2>📄 Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/301b966d-5908-470c-b2a8-fcb42da905c9/public_url)
 
